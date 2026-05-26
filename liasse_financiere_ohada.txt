@@ -1,0 +1,22 @@
+========================================================
+        LIASSE DES ÉTATS FINANCIERS REVISÉS (OHADA)     
+        Éditée le : 2026-05-26 14:26
+========================================================
+
+--- BALANCE DES COMPTES ---
+Compte 101000  | Capital social            | Solde Deb:            0 | Solde Crd:      500,000
+Compte 245000  | Matériel de transport     | Solde Deb:      350,000 | Solde Crd:            0
+Compte 422000  | Personnel, rémunérations  | Solde Deb:            0 | Solde Crd:            0
+Compte 431000  | Sécurité sociale          | Solde Deb:            0 | Solde Crd:          140
+Compte 442100  | État, impôt sur le résult | Solde Deb:            0 | Solde Crd:          400
+Compte 443100  | État, TVA facturée        | Solde Deb:            0 | Solde Crd:          384
+Compte 521100  | Banques locales           | Solde Deb:      179,540 | Solde Crd:            0
+Compte 571100  | Caisse principale         | Solde Deb:       14,784 | Solde Crd:            0
+Compte 605100  | Fournitures non stockable | Solde Deb:       15,000 | Solde Crd:            0
+Compte 661100  | Charges de personnel      | Solde Deb:       16,000 | Solde Crd:            0
+Compte 706000  | Services vendus           | Solde Deb:            0 | Solde Crd:       74,400
+
+--- ANALYSE DE GESTION ---
+Volume des Charges  : 31,000.00 USD
+Volume des Produits : 74,400.00 USD
+RÉSULTAT DU CODE FINANCIER : 43,400.00 USD
